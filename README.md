@@ -171,6 +171,6 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 📞 Contact
 
 - **Email**: bobbybk03@gmail.com
-- **LinkedIn**: [Abhijeet Bhale](https://www.linkedin.com/in/bobby-kumar-759455361/)
+- **LinkedIn**: [Bobby Kumar](https://www.linkedin.com/in/bobby-kumar-759455361/)
 - **GitHub**: [@b0bby-dev](https://github.com/b0bby-dev)
 - **Instagram**: [@b0bby.dev](https://www.instagram.com/b0bby.dev/)

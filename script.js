@@ -513,7 +513,7 @@ document.addEventListener("DOMContentLoaded", function () {
       try {
         // Option 1: Using Formspree (you need to create your own endpoint)
         // Replace 'YOUR_FORMSPREE_ENDPOINT' with your actual Formspree endpoint
-        const response = await fetch("https://formspree.io/f/mjkrlgar", {
+        const response = await fetch("https://formspree.io/f/xjkelazz", {
           method: "POST",
           headers: {
             "Content-Type": "application/json",
@@ -546,7 +546,7 @@ Message:
 ${data.message}
         `);
 
-        const mailtoLink = `mailto:abhijeetbhale7@gmail.com?subject=${emailSubject}&body=${emailBody}`;
+        const mailtoLink = `mailto:bobbybk03@gmail.com?subject=${emailSubject}&body=${emailBody}`;
 
         showMessage(
           `Form submission failed. <a href="${mailtoLink}" class="underline">Click here to send email directly</a> or try again later.`,
