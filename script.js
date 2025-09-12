@@ -683,6 +683,10 @@ document.addEventListener("DOMContentLoaded", function () {
         );
         document.getElementById("githubStars").textContent = totalStars;
 
+        // ADD THIS LINE to update the footer star count
+        const footerStars = document.getElementById("footerGithubStars");
+        if (footerStars) footerStars.textContent = totalStars;
+
         // Calculate recent commits (last 30 days)
         const thirtyDaysAgo = new Date();
         thirtyDaysAgo.setDate(thirtyDaysAgo.getDate() - 30);
